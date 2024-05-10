@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 👨‍💻 All of my projects are available at [https://www.hm-oussama.com/](https://www.hm-oussama.com/)
+- 👨‍💻 All of my projects are available at [https://www.hmoura.com/](https://www.hmoura.com/)
 
 - 💬 Ask me about **react, nextjs, vue, django and nestjs**
 
